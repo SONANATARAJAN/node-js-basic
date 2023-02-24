@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/resume/static/js/main.50d32d0d.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/resume/static/js/787.dc9ee2bf.chunk.js",
+    "index.html": "/resume/index.html",
+    "main.50d32d0d.js.map": "/resume/static/js/main.50d32d0d.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/resume/static/js/787.dc9ee2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.50d32d0d.js"
+  ]
+}
